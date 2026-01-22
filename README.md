@@ -1,8 +1,8 @@
 
 # <img width="1000" height="300" alt="Без названия" src="https://github.com/user-attachments/assets/ea92343c-0d85-4628-a2b2-47561ed6b3cf" />
 
-# [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ELKAst-1&theme=microsoft-dark&locale=ru&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+# <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ELKAst-1&theme=microsoft-dark&locale=ru&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 # ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELKAst-1&theme=blue-green&show_icons=true)
 
