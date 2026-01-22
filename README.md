@@ -2,7 +2,7 @@
 <img width="1000" height="300" alt="Без названия" src="https://github.com/user-attachments/assets/ea92343c-0d85-4628-a2b2-47561ed6b3cf" />
 
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ELKAst-1&theme=microsoft-dark&hide_border=true&locale=ru&short_numbers=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
 
